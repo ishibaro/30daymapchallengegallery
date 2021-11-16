@@ -1,0 +1,12 @@
+label: Day 4. Hexagons
+attribution: ishiba RO
+description: Estadística de accidentes de tránsito terrestre en zonas urbanas y suburbanas a nivel municipal entre el estado de México y el estado Ciudad de México
+metadata:
+  title: Day 2. Hexagons - Estadística de accidentes de tránsito terrestre en zonas urbanas y suburbanas a nivel municipal entre el estado de México y el estado Ciudad de México
+  Description: Normally I don't use hexagons, so I decided to create this map for the challenge showing transit accidents per vehicle involved in the Mexican states of Mexico and Mexico City, using date from INEGI. Estadística de accidentes de tránsito terrestre en zonas urbanas y suburbanas a nivel municipal entre el estado de México y el estado Ciudad de México
+  license: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+  date: 3 de Noviembre de 2021
+  creator: Ishiba RO
+  website: <a href="http://ishiba.blogspot.com">Blog de ishiba</a>
+  software: QGIS
+  notes: Publicado originalmente en Twitter e Instagram

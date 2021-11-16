@@ -5,12 +5,12 @@
   "modules": {
     "headerPanel": {
       "options": {
-        "localeToggleEnabled": false
+        "localeToggleEnabled": true
       }
     },
     "footerPanel": {
       "options": {
-        "downloadEnabled": false
+        "downloadEnabled": true
       }
     }
   }

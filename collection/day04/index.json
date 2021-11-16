@@ -1,50 +1,44 @@
 {
-  "id": "http://localhost:8888/collection/day02/index.json",
+  "id": "http://localhost:8888/collection/day04/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "http://localhost:8888/collection/day02/index.json/canvas/0",
+      "id": "http://localhost:8888/collection/day04/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:8888/collection/day02/index.json/canvas/0/annotationpage/0",
+          "id": "http://localhost:8888/collection/day04/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8888/collection/day02/index.json/canvas/0/annotation/0",
+              "id": "http://localhost:8888/collection/day04/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/day02/_day02/02.Day02.shortest-fastest02.jpg",
+                "id": "http://localhost:8888/collection/day04/_day04/04.Day04.Hexagons.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_day02"
+                    "_day04"
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/day02/index.json/canvas/0"
+              "target": "http://localhost:8888/collection/day04/index.json/canvas/0"
             }
           ]
         }
       ],
       "label": {
         "@none": [
-          "_day02"
+          "_day04"
         ]
-      },
-      "thumbnail": [
-        {
-          "id": "http://localhost:8888/collection/day02/_day02/thumb.jpeg",
-          "type": "Image"
-        }
-      ]
+      }
     }
   ],
   "label": {
     "@none": [
-      "Day 2. Lines"
+      "Day 4. Hexagons"
     ]
   },
   "metadata": [
@@ -56,7 +50,7 @@
       },
       "value": {
         "@none": [
-          "Day 2. Lines - Nile Delta travel routes from K. Samedi to San el-Hagar"
+          "Day 2. Hexagons - Estadística de accidentes de tránsito terrestre en zonas urbanas y suburbanas a nivel municipal entre el estado de México y el estado Ciudad de México"
         ]
       }
     },
@@ -68,7 +62,7 @@
       },
       "value": {
         "@none": [
-          "You have a ploion hellenikon to transport good from Canopus to Tanis. Would you use the shortest or the fastest route? Which one is the safest? Here, 4 different networks are shown to compare potential ease of movement in the Nile Delta."
+          "Normally I don't use hexagons, so I decided to create this map for the challenge showing transit accidents per vehicle involved in the Mexican states of Mexico and Mexico City, using date from INEGI. Estadística de accidentes de tránsito terrestre en zonas urbanas y suburbanas a nivel municipal entre el estado de México y el estado Ciudad de México"
         ]
       }
     },
@@ -92,7 +86,7 @@
       },
       "value": {
         "@none": [
-          2021
+          "3 de Noviembre de 2021"
         ]
       }
     },
@@ -140,16 +134,16 @@
       },
       "value": {
         "@none": [
-          "Aunque fue publicado originalmente en Twitter e Instagram, este mapa es parte de un investigación de doctorado."
+          "Publicado originalmente en Twitter e Instagram"
         ]
       }
     }
   ],
-  "attribution": "ishiba",
-  "description": "Based on my PhD research with data from the EES (@egyptexplorationsociety)",
+  "attribution": "ishiba RO",
+  "description": "Estadística de accidentes de tránsito terrestre en zonas urbanas y suburbanas a nivel municipal entre el estado de México y el estado Ciudad de México",
   "thumbnail": [
     {
-      "id": "http://localhost:8888/collection/day02/thumb.jpeg",
+      "id": "http://localhost:8888/collection/day04/thumb.jpeg",
       "type": "Image"
     }
   ]

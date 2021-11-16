@@ -1,9 +1,9 @@
 {
-  "id": "http://ishibaro.github.io/uv-app-starter/collection/index.json",
+  "id": "http://localhost:8888/collection/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "http://ishibaro.github.io/uv-app-starter/collection/day01/index.json",
+      "id": "http://localhost:8888/collection/day01/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -12,13 +12,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://ishibaro.github.io/uv-app-starter/collection/day01/thumb.jpeg",
+          "id": "http://localhost:8888/collection/day01/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://ishibaro.github.io/uv-app-starter/collection/day02/index.json",
+      "id": "http://localhost:8888/collection/day02/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -27,13 +27,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://ishibaro.github.io/uv-app-starter/collection/day02/thumb.jpeg",
+          "id": "http://localhost:8888/collection/day02/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://ishibaro.github.io/uv-app-starter/collection/day03/index.json",
+      "id": "http://localhost:8888/collection/day03/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -42,7 +42,22 @@
       },
       "thumbnail": [
         {
-          "id": "http://ishibaro.github.io/uv-app-starter/collection/day03/thumb.jpeg",
+          "id": "http://localhost:8888/collection/day03/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day04/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Day 4. Hexagons"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day04/thumb.jpeg",
           "type": "Image"
         }
       ]

@@ -38,6 +38,18 @@
         {
           "label": {
             "@none": [
+              "title"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Day 1. Points - Nile Delta, Greco Roman period settlements"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
               "license"
             ]
           },

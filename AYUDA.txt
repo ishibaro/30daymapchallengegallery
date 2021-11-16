@@ -14,7 +14,7 @@ git add collection/
 
 git commit
 
-6. Para subir las modificaciones al servidor. Y finalmente debemos decirle a GitHub que acepte las modificaciones y las ponga como archivos finales. Si no se hace esto no se verá nada en la página que de por si tarda en actualizarse. Cuando hagamos esto se abriré el editor de texto para preguntarnos qué cambios hubo y dejar un registro descriptivo. Esto se hace con
+6. Para subir las modificaciones al servidor. Cuando hagamos esto se abrirá el editor de texto para preguntarnos qué cambios hubo y dejar un registro descriptivo. Y finalmente debemos decirle a GitHub que acepte las modificaciones y las ponga como archivos finales. Si no se hace esto no se verá nada en la página que de por si tarda en actualizarse. Esto se hace con
 
 git push
 

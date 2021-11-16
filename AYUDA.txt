@@ -1,0 +1,31 @@
+1. El primer paso es abrir un BASH de Git aquí en este folder. Clic derecho: Git BASH here
+
+2. El segundo paso es actualizar la información. Para crear una nueva colección, basta con copiar el formato de cada carpeta adentro la carpeta «collection». Una vez añadido la información pertinente, incluyendo un thumbnail preliminar, en el bash, ponemos:
+
+npm start
+
+3. Esto crea archivos json adicionales, y creará un thumbnail automáticamente pero dentro de la última carpeta de cada imagen. También activa el servidor de páginas en la compu. PEro por alguna razón no se puede ver el resultado en la compu. Lo que hacemos es presionar Ctrl+C para apagar el servidor. 
+
+4. luego actualizamos el GITHUB de la página con:
+
+git add collection/
+
+5. Esto prepara los archivos para el commit. Aquí es donde el GIT revisa los cambios hechos. Usando  un . [punto] se puede actualizar archivos de una carpeta completa. Si se modifica cualquier otro archivo, se debe actualizar también. Luego usamos
+
+git commit
+
+6. Para subir las modificaciones al servidor. Y finalmente debemos decirle a GitHub que acepte las modificaciones y las ponga como archivos finales. Si no se hace esto no se verá nada en la página que de por si tarda en actualizarse. Esto se hace con
+
+git push
+
+7. Finalmente, se publican los resultados en la página con
+
+npm run publish:gh
+
+8. Debería estar lista la página
+
+
+
+
+
+

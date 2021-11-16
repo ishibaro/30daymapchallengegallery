@@ -1,0 +1,12 @@
+label: Day 3. Polygons
+attribution: ishiba
+description: Based on my MSc dissertation
+metadata:
+  title: Day 3. Polygons - Tlapa-Tlachinollan's polity XTENT
+  license: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+  date: 2011
+  creator: Ishiba RO
+  website: <a href="http://ishiba.blogspot.com">Blog de ishiba</a>
+  software: QGIS
+  notes: Created with the XTENT formula proposed by Renfrew & Level in 1979. An add-on called "r.xtent" by Benjamin Ducke, used to be available in GRASS64. To find out more download my MSc dissertation
+  url: <a href="https://www.academia.edu/5814992/Iyolloco_in_altepetl_Tlapa_Tlachinollans_polity_through_GIS_and_spatial_analysis_La_Monta%C3%B1a_of_Guerrero_Mexico">Iyolloco in altepetl. Tlapa-Tlachinollan's polity through GIS and spatial analysis. La Montaña of Guerrero, Mexico</a>

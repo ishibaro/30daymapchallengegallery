@@ -1,51 +1,45 @@
 {
-  "id": "http://ishibaro.github.io/uv-app-starter/collection/index.json",
+  "id": "http://localhost:8888/collection/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "http://ishibaro.github.io/uv-app-starter/collection/crick%20test/index.json",
+      "id": "http://localhost:8888/collection/day01/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
-          "crick test"
+          "Day 1. Points"
         ]
       },
       "thumbnail": [
         {
-          "id": "http://ishibaro.github.io/collection/crick test/thumb.jpeg",
+          "id": "http://localhost:8888/collection/day01/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://ishibaro.github.io/uv-app-starter/collection/day01/index.json",
+      "id": "http://localhost:8888/collection/day02/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
-          "Day 1. Points - Nile Delta, Greco Roman period settlements"
+          "Day 2. Lines"
         ]
       },
       "thumbnail": [
         {
-          "id": "http://ishibaro.github.io/uv-app-starter/collection/day01/thumb.jpeg",
+          "id": "http://localhost:8888/collection/day02/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://ishibaro.github.io/uv-app-starter/collection/day02/index.json",
+      "id": "http://localhost:8888/collection/day03/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
-          "day02"
+          "Day 3. Polygons"
         ]
-      },
-      "thumbnail": [
-        {
-          "id": "http://ishibaro.github.io/uv-app-starter/collection/day02/thumb.jpeg",
-          "type": "Image"
-        }
-      ]
+      }
     }
   ],
   "label": {

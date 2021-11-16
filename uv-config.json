@@ -1,6 +1,6 @@
 {
   "options": {
-    "headerPanelEnabled": false
+    "headerPanelEnabled": true
   },
   "modules": {
     "headerPanel": {

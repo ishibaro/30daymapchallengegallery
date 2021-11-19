@@ -1,9 +1,9 @@
 {
-  "id": "http://localhost:8888/collection/index.json",
+  "id": "http://ishibaro.github.io/uv-app-starter/collection/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "http://localhost:8888/collection/day01/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day01/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -12,13 +12,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day01/thumb.jpeg",
+          "id": "http://ishibaro.github.io/uv-app-starter/collection/day01/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day10/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day10/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -27,13 +27,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day10/thumb.jpeg",
+          "id": "http://ishibaro.github.io/uv-app-starter/collection/day10/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day02/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day02/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -42,13 +42,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day02/thumb.jpeg",
+          "id": "http://ishibaro.github.io/uv-app-starter/collection/day02/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day03/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day03/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -57,13 +57,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day03/thumb.jpeg",
+          "id": "http://ishibaro.github.io/uv-app-starter/collection/day03/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day04/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day04/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -72,13 +72,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day04/thumb.jpeg",
+          "id": "http://ishibaro.github.io/uv-app-starter/collection/day04/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day05/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day05/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -87,13 +87,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day05/thumb.jpeg",
+          "id": "http://ishibaro.github.io/uv-app-starter/collection/day05/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day06/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day06/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -102,13 +102,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day06/thumb.jpeg",
+          "id": "http://ishibaro.github.io/uv-app-starter/collection/day06/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day07/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day07/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -117,13 +117,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day07/thumb.jpeg",
+          "id": "http://ishibaro.github.io/uv-app-starter/collection/day07/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day08/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day08/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -132,13 +132,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day08/thumb.jpeg",
+          "id": "http://ishibaro.github.io/uv-app-starter/collection/day08/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day09/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day09/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -147,13 +147,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day09/thumb.jpeg",
+          "id": "http://ishibaro.github.io/uv-app-starter/collection/day09/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day11/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day11/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -162,7 +162,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day12/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day12/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -171,7 +171,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day13/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day13/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -180,7 +180,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day14/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day14/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -189,7 +189,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day15/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day15/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -198,7 +198,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day16/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day16/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -207,7 +207,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day17/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day17/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -216,7 +216,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day18/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day18/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -225,7 +225,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day19/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day19/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -234,7 +234,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day20/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day20/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -243,7 +243,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day21/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day21/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -252,7 +252,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day22/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day22/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -261,7 +261,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day23/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day23/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -270,7 +270,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day24/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day24/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -279,7 +279,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day25/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day25/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -288,7 +288,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day26/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day26/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -297,7 +297,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day27/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day27/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -306,7 +306,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day28/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day28/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -315,7 +315,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day29/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day29/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -324,7 +324,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day30/index.json",
+      "id": "http://ishibaro.github.io/uv-app-starter/collection/day30/index.json",
       "type": "Manifest",
       "label": {
         "@none": [

@@ -1,9 +1,9 @@
 {
-  "id": "http://ishibaro.github.io/uv-app-starter/collection/index.json",
+  "id": "http://localhost:8888/collection/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "http://ishibaro.github.io/uv-app-starter/collection/day01/index.json",
+      "id": "http://localhost:8888/collection/day01/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -12,13 +12,28 @@
       },
       "thumbnail": [
         {
-          "id": "http://ishibaro.github.io/uv-app-starter/collection/day01/thumb.jpeg",
+          "id": "http://localhost:8888/collection/day01/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://ishibaro.github.io/uv-app-starter/collection/day02/index.json",
+      "id": "http://localhost:8888/collection/day10/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Day 10. Raster"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day10/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day02/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -27,13 +42,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://ishibaro.github.io/uv-app-starter/collection/day02/thumb.jpeg",
+          "id": "http://localhost:8888/collection/day02/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://ishibaro.github.io/uv-app-starter/collection/day03/index.json",
+      "id": "http://localhost:8888/collection/day03/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -42,13 +57,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://ishibaro.github.io/uv-app-starter/collection/day03/thumb.jpeg",
+          "id": "http://localhost:8888/collection/day03/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://ishibaro.github.io/uv-app-starter/collection/day04/index.json",
+      "id": "http://localhost:8888/collection/day04/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -57,10 +72,265 @@
       },
       "thumbnail": [
         {
-          "id": "http://ishibaro.github.io/uv-app-starter/collection/day04/thumb.jpeg",
+          "id": "http://localhost:8888/collection/day04/thumb.jpeg",
           "type": "Image"
         }
       ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day05/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Day 5. Data challenge 1. OpenStreetMap"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day05/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day06/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Day 6. Red"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day06/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day07/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Day 7. Green"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day07/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day08/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Day 8. Blue"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day08/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day09/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Day 9. Monochrome"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day09/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day11/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day11"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day12/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day12"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day13/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day13"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day14/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day14"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day15/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day15"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day16/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day16"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day17/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day17"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day18/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day18"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day19/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day19"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day20/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day20"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day21/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day21"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day22/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day22"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day23/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day23"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day24/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day24"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day25/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day25"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day26/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day26"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day27/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day27"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day28/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day28"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day29/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day29"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:8888/collection/day30/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "day30"
+        ]
+      }
     }
   ],
   "label": {

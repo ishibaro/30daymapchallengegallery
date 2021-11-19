@@ -1,21 +1,21 @@
 {
-  "id": "http://ishibaro.github.io/uv-app-starter/collection/day04/index.json",
+  "id": "http://localhost:8888/collection/day04/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "http://ishibaro.github.io/uv-app-starter/collection/day04/index.json/canvas/0",
+      "id": "http://localhost:8888/collection/day04/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://ishibaro.github.io/uv-app-starter/collection/day04/index.json/canvas/0/annotationpage/0",
+          "id": "http://localhost:8888/collection/day04/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://ishibaro.github.io/uv-app-starter/collection/day04/index.json/canvas/0/annotation/0",
+              "id": "http://localhost:8888/collection/day04/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://ishibaro.github.io/uv-app-starter/collection/day04/_day04/04.Day04.Hexagons.jpg",
+                "id": "http://localhost:8888/collection/day04/_day04/04.Day04.Hexagons.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "http://ishibaro.github.io/uv-app-starter/collection/day04/index.json/canvas/0"
+              "target": "http://localhost:8888/collection/day04/index.json/canvas/0"
             }
           ]
         }
@@ -36,7 +36,7 @@
       },
       "thumbnail": [
         {
-          "id": "http://ishibaro.github.io/uv-app-starter/collection/day04/_day04/thumb.jpeg",
+          "id": "http://localhost:8888/collection/day04/_day04/thumb.jpeg",
           "type": "Image"
         }
       ]
@@ -80,7 +80,7 @@
       },
       "value": {
         "@none": [
-          "<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC BY-NC-SA 4.0</a>"
+          "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
         ]
       }
     },
@@ -92,7 +92,7 @@
       },
       "value": {
         "@none": [
-          "3 de Noviembre de 2021"
+          "4 de Noviembre de 2021"
         ]
       }
     },
@@ -149,7 +149,7 @@
   "description": "Estadística de accidentes de tránsito terrestre en zonas urbanas y suburbanas a nivel municipal entre el estado de México y el estado Ciudad de México",
   "thumbnail": [
     {
-      "id": "http://ishibaro.github.io/uv-app-starter/collection/day04/thumb.jpeg",
+      "id": "http://localhost:8888/collection/day04/thumb.jpeg",
       "type": "Image"
     }
   ]

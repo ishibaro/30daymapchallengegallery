@@ -1,0 +1,10 @@
+{
+  "id": "http://localhost:8888/collection/day16/index.json",
+  "type": "Manifest",
+  "items": [],
+  "label": {
+    "@none": [
+      "day16"
+    ]
+  }
+}

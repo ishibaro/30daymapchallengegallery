@@ -1,24 +1,144 @@
 {
-  "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/index.json",
+  "id": "http://localhost:8888/collection/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day01/index.json",
+      "id": "http://localhost:8888/collection/day01/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
-          "Day 1. Points"
+          "Day 01. Points"
         ]
       },
       "thumbnail": [
         {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day01/thumb.jpeg",
+          "id": "http://localhost:8888/collection/day01/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day10/index.json",
+      "id": "http://localhost:8888/collection/day02/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Day 02. Lines"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day02/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day03/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Day 03. Polygons"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day03/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day04/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Day 04. Hexagons"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day04/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day05/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Day 05. Data challenge 1. OpenStreetMap"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day05/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day06/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Day 06. Red"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day06/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day07/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Day 07. Green"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day07/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day08/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Day 08. Blue"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day08/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day09/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Day 09. Monochrome"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day09/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day10/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -27,127 +147,7 @@
       },
       "thumbnail": [
         {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day10/thumb.jpeg",
-          "type": "Image"
-        }
-      ]
-    },
-    {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day02/index.json",
-      "type": "Manifest",
-      "label": {
-        "@none": [
-          "Day 2. Lines"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day02/thumb.jpeg",
-          "type": "Image"
-        }
-      ]
-    },
-    {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day03/index.json",
-      "type": "Manifest",
-      "label": {
-        "@none": [
-          "Day 3. Polygons"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day03/thumb.jpeg",
-          "type": "Image"
-        }
-      ]
-    },
-    {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day04/index.json",
-      "type": "Manifest",
-      "label": {
-        "@none": [
-          "Day 4. Hexagons"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day04/thumb.jpeg",
-          "type": "Image"
-        }
-      ]
-    },
-    {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day05/index.json",
-      "type": "Manifest",
-      "label": {
-        "@none": [
-          "Day 5. Data challenge 1. OpenStreetMap"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day05/thumb.jpeg",
-          "type": "Image"
-        }
-      ]
-    },
-    {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day06/index.json",
-      "type": "Manifest",
-      "label": {
-        "@none": [
-          "Day 6. Red"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day06/thumb.jpeg",
-          "type": "Image"
-        }
-      ]
-    },
-    {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day07/index.json",
-      "type": "Manifest",
-      "label": {
-        "@none": [
-          "Day 7. Green"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day07/thumb.jpeg",
-          "type": "Image"
-        }
-      ]
-    },
-    {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day08/index.json",
-      "type": "Manifest",
-      "label": {
-        "@none": [
-          "Day 8. Blue"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day08/thumb.jpeg",
-          "type": "Image"
-        }
-      ]
-    },
-    {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day09/index.json",
-      "type": "Manifest",
-      "label": {
-        "@none": [
-          "Day 9. Monochrome"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day09/thumb.jpeg",
+          "id": "http://localhost:8888/collection/day10/thumb.jpeg",
           "type": "Image"
         }
       ]

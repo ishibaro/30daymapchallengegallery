@@ -1,21 +1,21 @@
 {
-  "id": "http://localhost:8888/collection/day21/index.json",
+  "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day21/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "http://localhost:8888/collection/day21/index.json/canvas/0",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day21/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:8888/collection/day21/index.json/canvas/0/annotationpage/0",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day21/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8888/collection/day21/index.json/canvas/0/annotation/0",
+              "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day21/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/day21/_day07/joyv.png",
+                "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day21/_day07/joyv.png",
                 "type": "Image",
                 "format": "image/png",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/day21/index.json/canvas/0"
+              "target": "http://ishibaro.github.io/30daymapchallengegallery/collection/day21/index.json/canvas/0"
             }
           ]
         }
@@ -143,7 +143,7 @@
   "description": "A cartographic and DataViz classic - A Joy Plot map of Mexico (obviously after Joy Division). enJOY!",
   "thumbnail": [
     {
-      "id": "http://localhost:8888/collection/day21/thumb.jpeg",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day21/thumb.jpeg",
       "type": "Image"
     }
   ]

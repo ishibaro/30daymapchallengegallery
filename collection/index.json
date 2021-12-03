@@ -1,9 +1,9 @@
 {
-  "id": "http://localhost:8888/collection/index.json",
+  "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "http://localhost:8888/collection/day01/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day01/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -12,13 +12,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day01/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day01/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day02/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day02/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -27,13 +27,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day02/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day02/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day03/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day03/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -42,13 +42,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day03/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day03/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day04/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day04/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -57,13 +57,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day04/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day04/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day05/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day05/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -72,13 +72,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day05/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day05/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day06/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day06/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -87,13 +87,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day06/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day06/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day07/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day07/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -102,13 +102,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day07/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day07/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day08/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day08/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -117,13 +117,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day08/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day08/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day09/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day09/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -132,13 +132,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day09/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day09/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day10/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day10/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -147,13 +147,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day10/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day10/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day11/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day11/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -162,13 +162,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day11/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day11/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day12/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day12/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -177,13 +177,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day12/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day12/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day13/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day13/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -192,13 +192,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day13/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day13/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day14/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day14/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -207,13 +207,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day14/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day14/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day15/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/index.json",
       "type": "Collection",
       "label": {
         "@none": [
@@ -222,7 +222,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day24/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day24/index.json",
       "type": "Collection",
       "label": {
         "@none": [
@@ -231,13 +231,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day24/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day24/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day16/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day16/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -246,13 +246,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day16/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day16/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day17/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day17/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -261,13 +261,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day17/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day17/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day18/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day18/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -276,13 +276,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day18/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day18/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day19/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day19/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -291,13 +291,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day19/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day19/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day20/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day20/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -306,13 +306,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day20/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day20/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day21/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day21/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -321,13 +321,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day21/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day21/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day23/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day23/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -336,7 +336,7 @@
       }
     },
     {
-      "id": "http://localhost:8888/collection/day22/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day22/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -345,13 +345,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day22/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day22/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day25/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day25/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -360,13 +360,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day25/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day25/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day26/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day26/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -375,13 +375,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day26/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day26/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day27/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day27/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -390,13 +390,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day27/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day27/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day28/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day28/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -405,13 +405,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day28/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day28/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day29/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day29/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -420,13 +420,13 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day29/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day29/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day30/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day30/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -435,7 +435,7 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day30/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day30/thumb.jpeg",
           "type": "Image"
         }
       ]

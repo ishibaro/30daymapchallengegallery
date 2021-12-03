@@ -1,28 +1,22 @@
 {
-  "id": "http://localhost:8888/collection/day17/index.json",
+  "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day17/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "http://localhost:8888/collection/day17/index.json/canvas/0",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day17/index.json/canvas/0",
       "type": "Canvas",
-      "height": 360,
-      "width": 640,
-      "duration": 36,
       "items": [
         {
-          "id": "http://localhost:8888/collection/day17/index.json/canvas/0/annotationpage/0",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day17/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8888/collection/day17/index.json/canvas/0/annotation/0",
+              "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day17/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/day17/_day17/chimas.mp4",
+                "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day17/_day17/chimas.mp4",
                 "type": "Video",
-                "height": 360,
-                "width": 640,
-                "duration": 36,
                 "format": "video/mp4",
                 "label": {
                   "@none": [
@@ -30,7 +24,7 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/day17/index.json/canvas/0"
+              "target": "http://ishibaro.github.io/30daymapchallengegallery/collection/day17/index.json/canvas/0"
             }
           ]
         }
@@ -42,7 +36,7 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day17/_day17/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day17/_day17/thumb.jpeg",
           "type": "Image"
         }
       ]
@@ -155,7 +149,7 @@
   "description": "This one is a video about a big problem in Mexico in the Chimalapas",
   "thumbnail": [
     {
-      "id": "http://localhost:8888/collection/day17/thumb.jpeg",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day17/thumb.jpeg",
       "type": "Image"
     }
   ]

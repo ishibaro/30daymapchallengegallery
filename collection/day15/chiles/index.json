@@ -1,21 +1,21 @@
 {
-  "id": "http://localhost:8888/collection/day15/chiles/index.json",
+  "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/0",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/0/annotationpage/0",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/0/annotation/0",
+              "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/day15/chiles/_image-1/mexicochiles.jpg",
+                "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/_image-1/mexicochiles.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/day15/chiles/index.json/canvas/0"
+              "target": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/0"
             }
           ]
         }
@@ -134,25 +134,25 @@
       ],
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day15/chiles/_image-1/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/_image-1/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/1",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/1",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/1/annotationpage/0",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/1/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/1/annotation/0",
+              "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/1/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/day15/chiles/_image-2/persp01.jpg",
+                "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/_image-2/persp01.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -161,7 +161,7 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/day15/chiles/index.json/canvas/1"
+              "target": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/1"
             }
           ]
         }
@@ -271,25 +271,25 @@
       ],
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day15/chiles/_image-2/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/_image-2/thumb.jpeg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/2",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/2",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/2/annotationpage/0",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/2/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/2/annotation/0",
+              "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/2/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/day15/chiles/_image-3/persp2.jpg",
+                "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/_image-3/persp2.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -298,7 +298,7 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/day15/chiles/index.json/canvas/2"
+              "target": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/2"
             }
           ]
         }
@@ -408,19 +408,19 @@
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/3",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/3",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/3/annotationpage/0",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/3/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/3/annotation/0",
+              "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/3/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/day15/chiles/_image-4/legend.jpg",
+                "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/_image-4/legend.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -429,7 +429,7 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/day15/chiles/index.json/canvas/3"
+              "target": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/3"
             }
           ]
         }
@@ -539,19 +539,19 @@
       ]
     },
     {
-      "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/4",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/4",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/4/annotationpage/0",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/4/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/4/annotation/0",
+              "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/4/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8888/collection/day15/chiles/_image-5/scale_north.jpg",
+                "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/_image-5/scale_north.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -560,7 +560,7 @@
                   ]
                 }
               },
-              "target": "http://localhost:8888/collection/day15/chiles/index.json/canvas/4"
+              "target": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json/canvas/4"
             }
           ]
         }
@@ -677,7 +677,7 @@
   },
   "thumbnail": [
     {
-      "id": "http://localhost:8888/collection/day15/chiles/thumb.jpeg",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/thumb.jpeg",
       "type": "Image"
     }
   ]

@@ -5,6 +5,9 @@
     {
       "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day28/index.json/canvas/0",
       "type": "Canvas",
+      "height": 360,
+      "width": 640,
+      "duration": 36,
       "items": [
         {
           "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day28/index.json/canvas/0/annotationpage/0",
@@ -17,6 +20,9 @@
               "body": {
                 "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day28/_day28/prenomus02.mp4",
                 "type": "Video",
+                "height": 360,
+      "width": 640,
+      "duration": 36,
                 "format": "video/mp4",
                 "label": {
                   "@none": [

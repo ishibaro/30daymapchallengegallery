@@ -5,6 +5,9 @@
     {
       "id": "http://localhost:8888/collection/day20/index.json/canvas/0",
       "type": "Canvas",
+      "height": 360,
+      "width": 640,
+      "duration": 36,
       "items": [
         {
           "id": "http://localhost:8888/collection/day20/index.json/canvas/0/annotationpage/0",
@@ -17,6 +20,9 @@
               "body": {
                 "id": "http://localhost:8888/collection/day20/_day20/20.day.mp4",
                 "type": "Video",
+                "height": 360,
+      "width": 640,
+      "duration": 36,
                 "format": "video/mp4",
                 "label": {
                   "@none": [

@@ -1,0 +1,684 @@
+{
+  "id": "http://localhost:8888/collection/day15/chiles/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8888/collection/day15/chiles/_image-1/mexicochiles.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Day 15. Map made without using a computer"
+                  ]
+                }
+              },
+              "target": "http://localhost:8888/collection/day15/chiles/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Day 15. Map made without using a computer"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "title"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Day 15. Map made without using a computer - Mexico"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "Description"
+            ]
+          },
+          "value": {
+            "@none": [
+              "This is a map made with chillies representing Mexico, whose official name is United States of Mexico. This is not a map of the diversity of chillies in Mexico nor the location of common ones. It is literally a map made with chillies."
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "license"
+            ]
+          },
+          "value": {
+            "@none": [
+              "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "date"
+            ]
+          },
+          "value": {
+            "@none": [
+              2021
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "creator"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Ishiba RO"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "website"
+            ]
+          },
+          "value": {
+            "@none": [
+              "<a href=\"http://ishiba.blogspot.com\">Blog de ishiba</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "software"
+            ]
+          },
+          "value": {
+            "@none": [
+              "QGIS"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "notes"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Publicado originalmente en Twitter e Instagram."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day15/chiles/_image-1/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/1",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/1/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8888/collection/day15/chiles/_image-2/persp01.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Perspectiva 1"
+                  ]
+                }
+              },
+              "target": "http://localhost:8888/collection/day15/chiles/index.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Perspectiva 1"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "title"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Day 15. Map made without using a computer - Mexico"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "Description"
+            ]
+          },
+          "value": {
+            "@none": [
+              "This is a map made with chillies representing Mexico, whose official name is United States of Mexico. This is not a map of the diversity of chillies in Mexico nor the location of common ones. It is literally a map made with chillies."
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "license"
+            ]
+          },
+          "value": {
+            "@none": [
+              "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "date"
+            ]
+          },
+          "value": {
+            "@none": [
+              2021
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "creator"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Ishiba RO"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "website"
+            ]
+          },
+          "value": {
+            "@none": [
+              "<a href=\"http://ishiba.blogspot.com\">Blog de ishiba</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "software"
+            ]
+          },
+          "value": {
+            "@none": [
+              "QGIS"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "notes"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Publicado originalmente en Twitter e Instagram."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day15/chiles/_image-2/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/2",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/2/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/2/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8888/collection/day15/chiles/_image-3/persp2.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Perspectiva 2"
+                  ]
+                }
+              },
+              "target": "http://localhost:8888/collection/day15/chiles/index.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Perspectiva 2"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "title"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Day 15. Map made without using a computer - Mexico"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "Description"
+            ]
+          },
+          "value": {
+            "@none": [
+              "This is a map made with chillies representing Mexico, whose official name is United States of Mexico. This is not a map of the diversity of chillies in Mexico nor the location of common ones. It is literally a map made with chillies."
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "license"
+            ]
+          },
+          "value": {
+            "@none": [
+              "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "date"
+            ]
+          },
+          "value": {
+            "@none": [
+              2021
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "creator"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Ishiba RO"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "website"
+            ]
+          },
+          "value": {
+            "@none": [
+              "<a href=\"http://ishiba.blogspot.com\">Blog de ishiba</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "software"
+            ]
+          },
+          "value": {
+            "@none": [
+              "QGIS"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "notes"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Publicado originalmente en Twitter e Instagram."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/3",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/3/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/3/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8888/collection/day15/chiles/_image-4/legend.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Legend"
+                  ]
+                }
+              },
+              "target": "http://localhost:8888/collection/day15/chiles/index.json/canvas/3"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Legend"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "title"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Day 15. Map made without using a computer - Mexico"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "Description"
+            ]
+          },
+          "value": {
+            "@none": [
+              "This is a map made with chillies representing Mexico, whose official name is United States of Mexico. This is not a map of the diversity of chillies in Mexico nor the location of common ones. It is literally a map made with chillies."
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "license"
+            ]
+          },
+          "value": {
+            "@none": [
+              "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "date"
+            ]
+          },
+          "value": {
+            "@none": [
+              2021
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "creator"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Ishiba RO"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "website"
+            ]
+          },
+          "value": {
+            "@none": [
+              "<a href=\"http://ishiba.blogspot.com\">Blog de ishiba</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "software"
+            ]
+          },
+          "value": {
+            "@none": [
+              "QGIS"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "notes"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Publicado originalmente en Twitter e Instagram."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/4",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/4/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8888/collection/day15/chiles/index.json/canvas/4/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8888/collection/day15/chiles/_image-5/scale_north.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Scale & North arrow"
+                  ]
+                }
+              },
+              "target": "http://localhost:8888/collection/day15/chiles/index.json/canvas/4"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Scale & North arrow"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "title"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Day 15. Map made without using a computer - Mexico"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "Description"
+            ]
+          },
+          "value": {
+            "@none": [
+              "This is a map made with chillies representing Mexico, whose official name is United States of Mexico. This is not a map of the diversity of chillies in Mexico nor the location of common ones. It is literally a map made with chillies."
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "license"
+            ]
+          },
+          "value": {
+            "@none": [
+              "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "date"
+            ]
+          },
+          "value": {
+            "@none": [
+              2021
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "creator"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Ishiba RO"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "website"
+            ]
+          },
+          "value": {
+            "@none": [
+              "<a href=\"http://ishiba.blogspot.com\">Blog de ishiba</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "software"
+            ]
+          },
+          "value": {
+            "@none": [
+              "QGIS"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "notes"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Publicado originalmente en Twitter e Instagram."
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "label": {
+    "@none": [
+      "Day 15. Map made without using a computer"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "http://localhost:8888/collection/day15/chiles/thumb.jpeg",
+      "type": "Image"
+    }
+  ]
+}

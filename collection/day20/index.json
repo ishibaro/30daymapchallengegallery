@@ -1,21 +1,21 @@
 {
-  "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day20/index.json",
+  "id": "http://localhost:8888/collection/day20/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day20/index.json/canvas/0",
+      "id": "http://localhost:8888/collection/day20/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day20/index.json/canvas/0/annotationpage/0",
+          "id": "http://localhost:8888/collection/day20/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day20/index.json/canvas/0/annotation/0",
+              "id": "http://localhost:8888/collection/day20/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day20/_day07/20.day.mp4",
+                "id": "http://localhost:8888/collection/day20/_day07/20.day.mp4",
                 "type": "Video",
                 "format": "video/mp4",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "http://ishibaro.github.io/30daymapchallengegallery/collection/day20/index.json/canvas/0"
+              "target": "http://localhost:8888/collection/day20/index.json/canvas/0"
             }
           ]
         }
@@ -36,7 +36,7 @@
       },
       "thumbnail": [
         {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day20/_day07/thumb.jpeg",
+          "id": "http://localhost:8888/collection/day20/_day07/thumb.jpeg",
           "type": "Image"
         }
       ]
@@ -149,7 +149,7 @@
   "description": "Day 7. Green. Do not stop your city's green heartbeat (video, turn your volume on). Landsat 8 Collection 1 Tier 1, 8-Day EVI (Enhanced Vegetation Index) animation created with Google Earth Engine, INEGIdata and DaVinci Resolve. EVI, GGE.",
   "thumbnail": [
     {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day20/thumb.jpeg",
+      "id": "http://localhost:8888/collection/day20/thumb.jpeg",
       "type": "Image"
     }
   ]

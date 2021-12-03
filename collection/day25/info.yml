@@ -1,4 +1,4 @@
-label: Day 25. Interactive map.
+label: Day 25
 attribution: ishiba RO
 description: I created this app to record the temporalities associated with each archaeological site in the EES database. I used PHP, PostgreSQL, PostGIS, Bootstrap (for styling) and Alwaysdata (host).
 metadata:

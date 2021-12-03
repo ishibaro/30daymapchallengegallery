@@ -1,4 +1,4 @@
-label: Day 27. Heatmap
+label: Day 27
 attribution: ishiba RO
 description: Web app showing Covid cases per country per day using d3.js, Github and GoogleSheets.
 metadata:

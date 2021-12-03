@@ -1,21 +1,21 @@
 {
-  "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day27/index.json",
+  "id": "http://localhost:8888/collection/day27/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day27/index.json/canvas/0",
+      "id": "http://localhost:8888/collection/day27/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day27/index.json/canvas/0/annotationpage/0",
+          "id": "http://localhost:8888/collection/day27/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day27/index.json/canvas/0/annotation/0",
+              "id": "http://localhost:8888/collection/day27/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day27/_day27/27.png",
+                "id": "http://localhost:8888/collection/day27/_day27/27.png",
                 "type": "Image",
                 "format": "image/png",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "http://ishibaro.github.io/30daymapchallengegallery/collection/day27/index.json/canvas/0"
+              "target": "http://localhost:8888/collection/day27/index.json/canvas/0"
             }
           ]
         }
@@ -36,7 +36,7 @@
       },
       "thumbnail": [
         {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day27/_day27/thumb.png",
+          "id": "http://localhost:8888/collection/day27/_day27/thumb.png",
           "type": "Image"
         }
       ]
@@ -149,7 +149,7 @@
   "description": "Web app showing Covid cases per country per day using d3.js, Github and GoogleSheets.",
   "thumbnail": [
     {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day27/thumb.jpeg",
+      "id": "http://localhost:8888/collection/day27/thumb.jpeg",
       "type": "Image"
     }
   ]

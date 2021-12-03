@@ -1,21 +1,21 @@
 {
-  "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day16/index.json",
+  "id": "http://localhost:8888/collection/day16/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day16/index.json/canvas/0",
+      "id": "http://localhost:8888/collection/day16/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day16/index.json/canvas/0/annotationpage/0",
+          "id": "http://localhost:8888/collection/day16/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day16/index.json/canvas/0/annotation/0",
+              "id": "http://localhost:8888/collection/day16/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day16/_day16/16.jpg",
+                "id": "http://localhost:8888/collection/day16/_day16/16.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "http://ishibaro.github.io/30daymapchallengegallery/collection/day16/index.json/canvas/0"
+              "target": "http://localhost:8888/collection/day16/index.json/canvas/0"
             }
           ]
         }
@@ -36,7 +36,7 @@
       },
       "thumbnail": [
         {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day16/_day16/thumb.jpeg",
+          "id": "http://localhost:8888/collection/day16/_day16/thumb.jpeg",
           "type": "Image"
         }
       ]
@@ -149,7 +149,7 @@
   "description": "Urban / rural. Most mammoths appear in the margins of riverine or lacustrine areas. In Central Mexico they normally appear away from Mexico City, in rural areas since the city itself is located in what it used to be the middle of a lake.",
   "thumbnail": [
     {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day16/thumb.jpeg",
+      "id": "http://localhost:8888/collection/day16/thumb.jpeg",
       "type": "Image"
     }
   ]

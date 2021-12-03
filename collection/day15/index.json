@@ -1,9 +1,9 @@
 {
-  "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/index.json",
+  "id": "http://localhost:8888/collection/day15/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/index.json",
+      "id": "http://localhost:8888/collection/day15/chiles/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -12,7 +12,7 @@
       },
       "thumbnail": [
         {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/chiles/thumb.jpeg",
+          "id": "http://localhost:8888/collection/day15/chiles/thumb.jpeg",
           "type": "Image"
         }
       ]
@@ -20,12 +20,12 @@
   ],
   "label": {
     "@none": [
-      "Day 15."
+      "Day 15 -gallery-"
     ]
   },
   "thumbnail": [
     {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day15/thumb.jpeg",
+      "id": "http://localhost:8888/collection/day15/thumb.jpeg",
       "type": "Image"
     }
   ]

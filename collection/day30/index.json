@@ -1,13 +1,13 @@
 {
-  "id": "http://localhost:8888/collection/day30/index.json",
+  "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day30/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "http://localhost:8888/collection/day30/index.json/canvas/0",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day30/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:8888/collection/day30/index.json/canvas/0/annotationpage/0",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day30/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": []
         }
@@ -126,7 +126,7 @@
   "description": "Day 30. Metamapping day. Final day collecting my entries from the challenge to a common gallery. THIS GALLERY!",
   "thumbnail": [
     {
-      "id": "http://localhost:8888/collection/day30/thumb.jpeg",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day30/thumb.jpeg",
       "type": "Image"
     }
   ]

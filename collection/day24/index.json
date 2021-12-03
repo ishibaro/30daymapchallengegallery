@@ -1,9 +1,9 @@
 {
-  "id": "http://localhost:8888/collection/day24/index.json",
+  "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day24/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "http://localhost:8888/collection/day24/upsala/index.json",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day24/upsala/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -12,7 +12,7 @@
       },
       "thumbnail": [
         {
-          "id": "http://localhost:8888/collection/day24/upsala/thumb.jpeg",
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day24/upsala/thumb.jpeg",
           "type": "Image"
         }
       ]
@@ -25,7 +25,7 @@
   },
   "thumbnail": [
     {
-      "id": "http://localhost:8888/collection/day24/thumb.jpeg",
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day24/thumb.jpeg",
       "type": "Image"
     }
   ]

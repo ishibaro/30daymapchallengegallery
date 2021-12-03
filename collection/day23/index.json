@@ -1,30 +1,30 @@
 {
-  "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day23/index.json",
+  "id": "http://localhost:8888/collection/day23/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day23/index.json/canvas/0",
+      "id": "http://localhost:8888/collection/day23/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day23/index.json/canvas/0/annotationpage/0",
+          "id": "http://localhost:8888/collection/day23/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day23/index.json/canvas/0/annotation/0",
+              "id": "http://localhost:8888/collection/day23/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day23/_day23/22.Day22.Nomes_2_phr.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
+                "id": "http://localhost:8888/collection/day23/_day23/day.mp4",
+                "type": "Video",
+                "format": "video/mp4",
                 "label": {
                   "@none": [
                     "_day23"
                   ]
                 }
               },
-              "target": "http://ishibaro.github.io/30daymapchallengegallery/collection/day23/index.json/canvas/0"
+              "target": "http://localhost:8888/collection/day23/index.json/canvas/0"
             }
           ]
         }
@@ -33,18 +33,12 @@
         "@none": [
           "_day23"
         ]
-      },
-      "thumbnail": [
-        {
-          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day23/_day23/thumb.jpeg",
-          "type": "Image"
-        }
-      ]
+      }
     }
   ],
   "label": {
     "@none": [
-      "Day 21. Elevation"
+      "Data challenge 3. GHSL Global Human Settlement Layer"
     ]
   },
   "metadata": [
@@ -56,7 +50,7 @@
       },
       "value": {
         "@none": [
-          "Day 21. Elevation. Do not stop your city's green heartbeat."
+          "Data challenge 3. GHSL Global Human Settlement Layer. Crappy Blender Animation of the increasing urbanization in the Basin of Mexico and the Mexican Plateau from 1975 to 2015."
         ]
       }
     },
@@ -68,7 +62,7 @@
       },
       "value": {
         "@none": [
-          "A cartographic and DataViz classic - A Joy Plot map of Mexico (obviously after Joy Division). enJOY!"
+          "Crappy Blender Animation of the increasing urbanization in the Basin of Mexico and the Mexican Plateau from 1975 to 2015. Particles still need a lot of work!!!"
         ]
       }
     },
@@ -128,7 +122,7 @@
       },
       "value": {
         "@none": [
-          "QGIS & GIMP"
+          "Blender, QGIS & DaVinci Resolve"
         ]
       }
     },
@@ -146,5 +140,11 @@
     }
   ],
   "attribution": "ishiba RO",
-  "description": "A cartographic and DataViz classic - A Joy Plot map of Mexico (obviously after Joy Division). enJOY!"
+  "description": "Crappy Blender Animation of the increasing urbanization in the Basin of Mexico and the Mexican Plateau from 1975 to 2015. Particles still need a lot of work!!!",
+  "thumbnail": [
+    {
+      "id": "http://localhost:8888/collection/day23/thumb.jpeg",
+      "type": "Image"
+    }
+  ]
 }

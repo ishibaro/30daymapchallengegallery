@@ -1,12 +1,12 @@
-label: Day 21. Elevation
+label: Data challenge 3. GHSL Global Human Settlement Layer
 attribution: ishiba RO
-description: A cartographic and DataViz classic - A Joy Plot map of Mexico (obviously after Joy Division). enJOY!
+description: Crappy Blender Animation of the increasing urbanization in the Basin of Mexico and the Mexican Plateau from 1975 to 2015. Particles still need a lot of work!!!
 metadata:
-  title: Day 21. Elevation. Do not stop your city's green heartbeat.
-  Description: A cartographic and DataViz classic - A Joy Plot map of Mexico (obviously after Joy Division). enJOY!
+  title: Data challenge 3. GHSL Global Human Settlement Layer. Crappy Blender Animation of the increasing urbanization in the Basin of Mexico and the Mexican Plateau from 1975 to 2015.
+  Description: Crappy Blender Animation of the increasing urbanization in the Basin of Mexico and the Mexican Plateau from 1975 to 2015. Particles still need a lot of work!!!
   license: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
   date: 7 de Noviembre de 2021
   creator: Ishiba RO
   website: <a href="http://ishiba.blogspot.com">Blog de ishiba</a>
-  software: QGIS & GIMP
+  software: Blender, QGIS & DaVinci Resolve
   notes: Publicado originalmente en Twitter e Instagram.

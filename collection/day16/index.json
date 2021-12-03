@@ -1,0 +1,156 @@
+{
+  "id": "http://localhost:8888/collection/day16/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "http://localhost:8888/collection/day16/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8888/collection/day16/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8888/collection/day16/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8888/collection/day16/_day16/16.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_day16"
+                  ]
+                }
+              },
+              "target": "http://localhost:8888/collection/day16/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_day16"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day16/_day16/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "label": {
+    "@none": [
+      "Day 16. Urban/rural"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "title"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Day 16. Urban/rural"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "Description"
+        ]
+      },
+      "value": {
+        "@none": [
+          "It was in Perote 2006 when I excavated my first mammoth, but it was in el Mirador, Singuilucan 2007 when I enjoyed it the most. This map was created in ArcMap 8, I am recycling a map because today I did not have time to create a new one. Most mammoths appear in the margins of riverine or lacustrine areas. In Central Mexico they normally appear away from Mexico City, in rural areas since the city itself is located in what it used to be the middle of a lake."
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "license"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "date"
+        ]
+      },
+      "value": {
+        "@none": [
+          2021
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "creator"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Ishiba RO"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "website"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<a href=\"http://ishiba.blogspot.com\">Blog de ishiba</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "software"
+        ]
+      },
+      "value": {
+        "@none": [
+          "QGIS"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "notes"
+        ]
+      },
+      "value": {
+        "@none": [
+          "La mayoría de los mamutes en el centro de México aparecen lejos de la ciudad de México, en zonas rurales, por la sencilla razón de que la ciudad está ubicada en lo que solía ser un lago."
+        ]
+      }
+    }
+  ],
+  "attribution": "ishiba",
+  "description": "Urban / rural. Most mammoths appear in the margins of riverine or lacustrine areas. In Central Mexico they normally appear away from Mexico City, in rural areas since the city itself is located in what it used to be the middle of a lake.",
+  "thumbnail": [
+    {
+      "id": "http://localhost:8888/collection/day16/thumb.jpeg",
+      "type": "Image"
+    }
+  ]
+}

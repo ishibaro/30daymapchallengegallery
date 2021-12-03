@@ -1,0 +1,156 @@
+{
+  "id": "http://localhost:8888/collection/day14/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "http://localhost:8888/collection/day14/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8888/collection/day14/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8888/collection/day14/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8888/collection/day14/_day14/untitledr.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "_day14"
+                  ]
+                }
+              },
+              "target": "http://localhost:8888/collection/day14/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_day14"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day14/_day14/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "label": {
+    "@none": [
+      "Day 14. Map with a new tool"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "title"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Day 14. Map with a new tool"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "Description"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Not really \"new\" but for me still challenging. \"Parque del Pueblo\", Nezahualcóyotl, México. I used Blender to create this crappy 3D scene. I wish I had more time to learn/work with Blender. I have a love/hate relationship with it!"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "license"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "date"
+        ]
+      },
+      "value": {
+        "@none": [
+          2021
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "creator"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Ishiba RO"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "website"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<a href=\"http://ishiba.blogspot.com\">Blog de ishiba</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "software"
+        ]
+      },
+      "value": {
+        "@none": [
+          "QGIS"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "notes"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Aunque fue publicado originalmente en Twitter e Instagram, este mapa es parte de un investigación de doctorado."
+        ]
+      }
+    }
+  ],
+  "attribution": "ishiba",
+  "description": "Map with a new tool (Blender). Not really \"new\" but for me still challenging.",
+  "thumbnail": [
+    {
+      "id": "http://localhost:8888/collection/day14/thumb.jpeg",
+      "type": "Image"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+label: Day 11. 3D
+attribution: ishiba
+description: Paleo-reconstruction using photogrammetry
+metadata:
+  title: Day 11. 3D - Paleo-reconstruction using photogrammetry
+  Description:  Paleo-reconstruction using photogrammetry combining hand-held and drone photographs (<a href="http://nsfgrant.pipog.org">http://nsfgrant.pipog.org</a>). This visualization recreates the summer solstice as seen from the interior of the Cueva de Los Gobernadores de Techan in the year 900 BCE. Mapping caves has always been a daunting task, given the complexity of its forms and the usually difficult access for surveyors and their equipment. 3D modeling of the exterior and interior of some caves is now possible using photogrammetry. Here, we present how we captured the complexity of the Mesoamerican underworld using both drones and digital photography in the caves of Guerrero <a href="http://nsfgrant.pipog.org/presentations/">See more presentations here</a>. 
+  license: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+  date: 2021
+  creator: Ishiba RO
+  website: <a href="http://ishiba.blogspot.com">Blog de ishiba</a>
+  software: QGIS
+  notes: Publicado originalmente en La Jornada Guerrero pero presentado en Society for American Archaeology, 83RD ANNUAL MEETING, April 11–April 15, Washington, DC. SYMPOSIUM. PERFORMING IN THE SHADOWS. RITUAL PRODUCTION IN CAVES AND ROCKSHELTERS. Israel Hinojosa-Balino and Gerardo Gutiérrez (2017) “Applications of Photogrammetry in Understanding Spatial and Ritual Contexts of Caves in the La Montaña Region, Eastern Guerrero”

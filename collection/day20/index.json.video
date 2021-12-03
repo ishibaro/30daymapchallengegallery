@@ -1,0 +1,162 @@
+{
+  "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day07/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day07/index.json/canvas/0",
+      "type": "Canvas",
+	  "height": 360,
+      "width": 640,
+      "duration": 36,
+      "items": [
+        {
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day07/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day07/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day07/_day07/green.mp4",
+                "type": "Video",
+                "height": 360,
+                "width": 640,
+                "duration": 36,
+                "format": "video/mp4",
+                "label": {
+                  "@none": [
+                    "_day07"
+                  ]
+                }
+              },
+              "target": "http://ishibaro.github.io/30daymapchallengegallery/collection/day07/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_day07"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day07/_day07/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "label": {
+    "@none": [
+      "Day 07. Green"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "title"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Day 7. Green. Do not stop your city's green heartbeat."
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "Description"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Do not stop your city's green heartbeat (video, turn your volume on). Landsat 8 Collection 1 Tier 1, 8-Day EVI (Enhanced Vegetation Index) animation created with Google Earth Engine, INEGIdata and DaVinci Resolve. EVI, GGE."
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "license"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "date"
+        ]
+      },
+      "value": {
+        "@none": [
+          "7 de Noviembre de 2021"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "creator"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Ishiba RO"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "website"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<a href=\"http://ishiba.blogspot.com\">Blog de ishiba</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "software"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Google Earth Engine, DaVinci Resolve"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "notes"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Publicado originalmente en Twitter e Instagram."
+        ]
+      }
+    }
+  ],
+  "attribution": "ishiba RO",
+  "description": "Day 7. Green. Do not stop your city's green heartbeat (video, turn your volume on). Landsat 8 Collection 1 Tier 1, 8-Day EVI (Enhanced Vegetation Index) animation created with Google Earth Engine, INEGIdata and DaVinci Resolve. EVI, GGE.",
+  "thumbnail": [
+    {
+      "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day07/thumb.jpeg",
+      "type": "Image"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "id": "http://localhost:8888/collection/day19/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "http://localhost:8888/collection/day19/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8888/collection/day19/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8888/collection/day19/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8888/collection/day19/_day19/19.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_day19"
+                  ]
+                }
+              },
+              "target": "http://localhost:8888/collection/day19/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_day19"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day19/_day19/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "label": {
+    "@none": [
+      "Day 02. Lines"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "title"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Day 2. Lines - Nile Delta travel routes from K. Samedi to San el-Hagar"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "Description"
+        ]
+      },
+      "value": {
+        "@none": [
+          "You have a ploion hellenikon to transport good from Canopus to Tanis. Would you use the shortest or the fastest route? Which one is the safest? Here, 4 different networks are shown to compare potential ease of movement in the Nile Delta."
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "license"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "date"
+        ]
+      },
+      "value": {
+        "@none": [
+          2021
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "creator"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Ishiba RO"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "website"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<a href=\"http://ishiba.blogspot.com\">Blog de ishiba</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "software"
+        ]
+      },
+      "value": {
+        "@none": [
+          "QGIS"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "notes"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Aunque fue publicado originalmente en Twitter e Instagram, este mapa es parte de un investigación de doctorado."
+        ]
+      }
+    }
+  ],
+  "attribution": "ishiba",
+  "description": "Based on my PhD research with data from the EES (@egyptexplorationsociety)",
+  "thumbnail": [
+    {
+      "id": "http://localhost:8888/collection/day19/thumb.jpeg",
+      "type": "Image"
+    }
+  ]
+}

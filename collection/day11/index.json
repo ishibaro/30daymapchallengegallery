@@ -1,0 +1,156 @@
+{
+  "id": "http://localhost:8888/collection/day11/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "http://localhost:8888/collection/day11/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8888/collection/day11/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8888/collection/day11/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8888/collection/day11/_day11/11.Day11.3D_tw.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "_day11"
+                  ]
+                }
+              },
+              "target": "http://localhost:8888/collection/day11/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_day11"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day11/_day11/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "label": {
+    "@none": [
+      "Day 11. 3D"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "title"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Day 11. 3D - Paleo-reconstruction using photogrammetry"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "Description"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Paleo-reconstruction using photogrammetry combining hand-held and drone photographs (<a href=\"http://nsfgrant.pipog.org\">http://nsfgrant.pipog.org</a>). This visualization recreates the summer solstice as seen from the interior of the Cueva de Los Gobernadores de Techan in the year 900 BCE. Mapping caves has always been a daunting task, given the complexity of its forms and the usually difficult access for surveyors and their equipment. 3D modeling of the exterior and interior of some caves is now possible using photogrammetry. Here, we present how we captured the complexity of the Mesoamerican underworld using both drones and digital photography in the caves of Guerrero <a href=\"http://nsfgrant.pipog.org/presentations/\">See more presentations here</a>."
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "license"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "date"
+        ]
+      },
+      "value": {
+        "@none": [
+          2021
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "creator"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Ishiba RO"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "website"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<a href=\"http://ishiba.blogspot.com\">Blog de ishiba</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "software"
+        ]
+      },
+      "value": {
+        "@none": [
+          "QGIS"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "notes"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Publicado originalmente en La Jornada Guerrero pero presentado en Society for American Archaeology, 83RD ANNUAL MEETING, April 11–April 15, Washington, DC. SYMPOSIUM. PERFORMING IN THE SHADOWS. RITUAL PRODUCTION IN CAVES AND ROCKSHELTERS. Israel Hinojosa-Balino and Gerardo Gutiérrez (2017) “Applications of Photogrammetry in Understanding Spatial and Ritual Contexts of Caves in the La Montaña Region, Eastern Guerrero”"
+        ]
+      }
+    }
+  ],
+  "attribution": "ishiba",
+  "description": "Paleo-reconstruction using photogrammetry",
+  "thumbnail": [
+    {
+      "id": "http://localhost:8888/collection/day11/thumb.jpeg",
+      "type": "Image"
+    }
+  ]
+}

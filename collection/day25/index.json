@@ -1,10 +1,138 @@
 {
-  "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day25/index.json",
+  "id": "http://localhost:8888/collection/day25/index.json",
   "type": "Manifest",
-  "items": [],
+  "items": [
+    {
+      "id": "http://localhost:8888/collection/day25/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8888/collection/day25/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8888/collection/day25/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8888/collection/day25/_day25/day25.mp4",
+                "type": "Video",
+                "format": "video/mp4",
+                "label": {
+                  "@none": [
+                    "_day25"
+                  ]
+                }
+              },
+              "target": "http://localhost:8888/collection/day25/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_day25"
+        ]
+      }
+    }
+  ],
   "label": {
     "@none": [
-      "day25"
+      "Day 25. Interactive map."
     ]
-  }
+  },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "title"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Day 25. Interactive map."
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "Description"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Day 25. Interactive map. For my PhD project, I created this app to record the temporalities associated with each archaeological site in the EES database. I used PHP, PostgreSQL, PostGIS, Bootstrap (for styling) and Alwaysdata (host)."
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "license"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "creator"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Ishiba RO"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "website"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<a href=\"http://ishiba.blogspot.com\">Blog de ishiba</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "software"
+        ]
+      },
+      "value": {
+        "@none": [
+          "PHP, PostgreSQL, PostGIS, Bootstrap (for styling) and Alwaysdata (host)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "notes"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Publicado originalmente en Twitter e Instagram."
+        ]
+      }
+    }
+  ],
+  "attribution": "ishiba RO",
+  "description": "I created this app to record the temporalities associated with each archaeological site in the EES database. I used PHP, PostgreSQL, PostGIS, Bootstrap (for styling) and Alwaysdata (host).",
+  "thumbnail": [
+    {
+      "id": "http://localhost:8888/collection/day25/thumb.jpeg",
+      "type": "Image"
+    }
+  ]
 }

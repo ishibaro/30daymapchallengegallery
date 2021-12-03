@@ -1,12 +1,12 @@
-label: Day 07. Green
+label: Day 20. Movement
 attribution: ishiba RO
-description: Day 7. Green. Do not stop your city's green heartbeat (video, turn your volume on). Landsat 8 Collection 1 Tier 1, 8-Day EVI (Enhanced Vegetation Index) animation created with Google Earth Engine, INEGIdata and DaVinci Resolve. EVI, GGE.
+description: Nile Delta Floods from ca. 1961 to 1967, Palimpsestual River Network. Made with Hec-RAS, but the video was recorded with video with OBS and finally edited with DaVinci Resolve
 metadata:
-  title: Day 7. Green. Do not stop your city's green heartbeat.
-  Description: Do not stop your city's green heartbeat (video, turn your volume on). Landsat 8 Collection 1 Tier 1, 8-Day EVI (Enhanced Vegetation Index) animation created with Google Earth Engine, INEGIdata and DaVinci Resolve. EVI, GGE.
+  title: Day 20. Nile Delta Floods from ca. 1961 to 1967
+  Description: Nile Delta Floods from ca. 1961 to 1967, Palimpsestual River Network. Made with Hec-RAS, but the video was recorded with video with OBS and finally edited with DaVinci Resolve
   license: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-  date: 7 de Noviembre de 2021
+  date: 20 de Noviembre de 2021
   creator: Ishiba RO
   website: <a href="http://ishiba.blogspot.com">Blog de ishiba</a>
-  software: Google Earth Engine, DaVinci Resolve
+  software: Hec-RAS, OBS, DaVinci Resolve
   notes: Publicado originalmente en Twitter e Instagram.

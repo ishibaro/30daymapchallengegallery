@@ -1,10 +1,254 @@
 {
-  "id": "http://ishibaro.github.io/30daymapchallengegallery/collection/day26/index.json",
+  "id": "http://localhost:8888/collection/day26/index.json",
   "type": "Manifest",
-  "items": [],
+  "items": [
+    {
+      "id": "http://localhost:8888/collection/day26/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8888/collection/day26/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8888/collection/day26/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8888/collection/day26/_image-1/01chalchis.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Day 26. Choropleth"
+                  ]
+                }
+              },
+              "target": "http://localhost:8888/collection/day26/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Day 26. Choropleth"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "title"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Day 26. Choropleth"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "Description"
+            ]
+          },
+          "value": {
+            "@none": [
+              "A weird and yet very thoughtful choropleth historical map of the number of “chalchihuites” depicted per building in the Uppsala Map (which btw it is being shown in Mexico City in the temporal exhibition “La Grandeza de México”. I added three small thumbnails at the bottom left to show you how they look in the original 16th-century map, but also an image of La Casa de la Cacica in Teposcocula, Oaxaca, that shows precisely how the buildings might have looked in the past. This was part of my Licenciatura thesis; I wrote it 12 years ago and it can be downloaded here <a href=\"https://is.gd/lW8MLt\">see Thesis</a>."
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "license"
+            ]
+          },
+          "value": {
+            "@none": [
+              "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "date"
+            ]
+          },
+          "value": {
+            "@none": [
+              "24 november 2021"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "creator"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Ishiba RO"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "website"
+            ]
+          },
+          "value": {
+            "@none": [
+              "<a href=\"http://ishiba.blogspot.com\">Blog de ishiba</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "software"
+            ]
+          },
+          "value": {
+            "@none": [
+              "QGIS"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "notes"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Publicado originalmente en Twitter e Instagram pero es parte de una investigación de licenciatura."
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "http://localhost:8888/collection/day26/_image-1/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
   "label": {
     "@none": [
-      "day26"
+      "Day 26. Choropleth"
     ]
-  }
+  },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "title"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Day 26. Choropleth"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "Description"
+        ]
+      },
+      "value": {
+        "@none": [
+          "A weird and yet very thoughtful choropleth historical map of the number of “chalchihuites” depicted per building in the Uppsala Map (which btw it is being shown in Mexico City in the temporal exhibition “La Grandeza de México”. I added three small thumbnails at the bottom left to show you how they look in the original 16th-century map, but also an image of La Casa de la Cacica in Teposcocula, Oaxaca, that shows precisely how the buildings might have looked in the past. This was part of my Licenciatura thesis; I wrote it 12 years ago and it can be downloaded here <a href=\"https://is.gd/lW8MLt\">see Thesis</a>."
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "license"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "date"
+        ]
+      },
+      "value": {
+        "@none": [
+          "24 november 2021"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "creator"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Ishiba RO"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "website"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<a href=\"http://ishiba.blogspot.com\">Blog de ishiba</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "software"
+        ]
+      },
+      "value": {
+        "@none": [
+          "QGIS"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "notes"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Publicado originalmente en Twitter e Instagram pero es parte de una investigación de licenciatura."
+        ]
+      }
+    }
+  ],
+  "attribution": "ishiba",
+  "description": "A weird and yet very thoughtful choropleth historical map of the number of “chalchihuites” depicted per building in the Uppsala Map (which btw it is being shown in Mexico City in the temporal exhibition “La Grandeza de México”. I added three small thumbnails at the bottom left to show you how they look in the original 16th-century map, but also an image of La Casa de la Cacica in Teposcocula, Oaxaca, that shows precisely how the buildings might have looked in the past. This was part of my Licenciatura thesis; I wrote it 12 years ago and it can be downloaded here <a href=\"https://is.gd/lW8MLt\">see Thesis</a>.",
+  "thumbnail": [
+    {
+      "id": "http://localhost:8888/collection/day26/thumb.jpeg",
+      "type": "Image"
+    }
+  ]
 }

@@ -1,0 +1,12 @@
+label: Day 27. Heatmap
+attribution: ishiba RO
+description: Web app showing Covid cases per country per day using d3.js, Github and GoogleSheets.
+metadata:
+  title: Day 27. Heatmap
+  Description: Web app showing Covid cases per country per day using d3.js, Github and GoogleSheets. The original webpage is found here <a href="https://ishibaro.github.io/HeatMapcovid19/horizontalHeatMapcovid19_wrkng.html">Heat map covid19</a> and the explanation is here along with the code used
+  license: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+  date: 7 de Noviembre de 2021
+  creator: Ishiba RO
+  website: <a href="http://ishiba.blogspot.com">Blog de ishiba</a>
+  software: d3.js, Github and GoogleSheets
+  notes: Publicado originalmente en Blogspot <a href="https://ishiba.blogspot.com/2020/09/tracking-flattening-of-curve-during.html">Tracking the "flattening" of the curve during the Covid19 ("Coronavirus") pandemic. A visualization proposal.</a>

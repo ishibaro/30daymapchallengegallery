@@ -1,3 +1,5 @@
+# 30 Day Map Challange Universal Viewer gallery
+- I forked this repo and modified it, you can see the result here https://ishibaro.github.io/30daymapchallengegallery/
 # uv-app-starter
 
 Get started building a [IIIF](http://iiif.io)-enabled website using the [Universal Viewer](http://universalviewer.io) and host it for free on [Github Pages](https://pages.github.com/).
